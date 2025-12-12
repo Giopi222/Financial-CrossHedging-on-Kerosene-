@@ -1,1 +1,3 @@
 This project aims to demonstrate that implementing cross hedging can be more effective and provide better risk coverage compared to hedging with a single asset. The underlying asset we seek to hedge is jet fuel, and various types of crude oil have been used as hedging instruments. The results show an improvement in risk mitigation through the cross hedging strategy.
+
+The project is structurated as a unique jupiter notebook.
